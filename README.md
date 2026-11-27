@@ -27,7 +27,8 @@ Searching Pandit through the skill is planned for the next phase.
 
 ## How to use
 
-1. Download the skill file from this repository.
+1. Download the skill from this repository: the folder [`pandit`](pandit), which holds
+   the file [`SKILL.md`](pandit/SKILL.md).
 2. Add it to your AI assistant as a skill, or as custom instructions if your
    assistant has no skills feature.
 3. Ask about a record by its Pandit address or its number, for example:
